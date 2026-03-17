@@ -121,7 +121,7 @@ header hr {
 }
 
 .logo {
-  width: 200px;
+  width: 170px;
   height: 50px;
   position: relative;
   left: -40px;
@@ -344,7 +344,7 @@ header hr {
   position: absolute;
   inset: 0;
   background: linear-gradient(to right,
-      rgba(8, 13, 26, 0.78),
+      rgba(8, 13, 26, 0.88),
       rgba(8, 13, 26, 0.22));
 }
 
@@ -951,9 +951,9 @@ a.sec2a {
 }
 
 .sec4d4::after {
-  background: url(../images/github2.png);
-  /* background-position: center;
-  background-size: cover; */
+  background: url(../images/github8.png);
+  background-position: center;
+  background-size: cover;
 }
 
 .sec4div>div:hover::after {
